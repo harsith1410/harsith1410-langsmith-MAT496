@@ -17,4 +17,9 @@
 
 # Module 2
 
-* 
+* In Video 1 what we did was we created datasets that have a question and gives an output for the given question
+  * We did by sending the example data set thru the code
+  * We also did by adding manually on the website
+  * We did by AI generation
+  
+  * We used to split and to filter the examples 
