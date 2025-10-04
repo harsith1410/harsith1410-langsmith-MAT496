@@ -38,3 +38,6 @@
 
 ---
 
+* In Video 4 we analysed the experiment results that we had got from the previous video
+* We looked in into the various viewing filters that we could find
+* ![img_1.png](img_1.png)
