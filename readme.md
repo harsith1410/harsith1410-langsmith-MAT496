@@ -23,3 +23,14 @@
   * We did by AI generation
   
   * We used to split and to filter the examples 
+  ![img.png](img.png)
+
+---
+
+* In video 2 we used a comparator that comes in with the Langchain modules that compare the preferred output with a sample output that we got by comparing and scoring them
+  * These comparators are called as evaluators
+  * We also tried by comparing manually on the langsmith UI website
+
+---
+
+* 
