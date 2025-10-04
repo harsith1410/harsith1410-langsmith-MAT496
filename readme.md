@@ -33,4 +33,8 @@
 
 ---
 
-* 
+* In video 3 we used experiments that can be used to test models and their accuracy by sending our question examples from our datasets
+  * We used an auto comparator that we created in the LangSmith UI and made them check for correctness
+
+---
+
