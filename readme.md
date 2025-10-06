@@ -39,5 +39,14 @@
 ---
 
 * In Video 4 we analysed the experiment results that we had got from the previous video
-* We looked in into the various viewing filters that we could find
-![img_1.png](img_1.png)
+  * We looked in into the various viewing filters that we could find
+  ![img_1.png](img_1.png)
+
+---
+
+* In Video 5 what we did was we used LLM's to create summary from a given dataset of transcripts and what we asked the LLM to evaluate these scores and then asked to compare which model gave us the better summary and asked it to pick which summary is preferred
+  ![img_2.png](img_2.png)
+* This compared two models summaries and gave us the better one and told which it preferred
+
+---
+
