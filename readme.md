@@ -66,6 +66,5 @@
   * In the final section we used the playground to find the outputs
   ![img_6.png](img_6.png)
     * In this case I had also added an evaluator to evaluate itself rather than doing in a manual fashion
-
 ---
 
