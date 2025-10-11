@@ -87,4 +87,12 @@
 
 ---
 
-* In Video 4
+* In Video 4 we looked at the prompt canvas where we used a LLM to make our prompt better
+  
+  * Image of prompt improvization
+  ![img_14.png](img_14.png)
+  
+  * Some example prompts
+
+  ![img_13.png](img_13.png)
+  ![img_12.png](img_12.png)
