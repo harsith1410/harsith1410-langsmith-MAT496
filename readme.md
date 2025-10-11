@@ -79,4 +79,12 @@
 
 ---
 
+* In Video 3 we explore the end-to-end process of building and refining a RAG application using LangSmith.
+  * In the first section, we run an initial version of the RAG application to answer a question and log its performance as a trace in LangSmith.
+  * In the second section, we create a new dataset in LangSmith to systematically evaluate our application and serve as a benchmark.
+    ![img_11.png](img_11.png)
+  * In the final section, we update the RAG application to make it more manageable by pulling its core prompt from the LangSmith Prompt Hub.
 
+---
+
+* In Video 4
