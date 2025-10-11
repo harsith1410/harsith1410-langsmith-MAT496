@@ -68,3 +68,15 @@
     * In this case I had also added an evaluator to evaluate itself rather than doing in a manual fashion
 ---
 
+* In Video 2 we we explore different methods of using prompt templates
+  * In the first 2 cases we created a prompt in the LangsmithUI and imported it using the **hub pull** and fed it data to find the answer
+    ![img_7.png](img_7.png)
+      * In this case we see that we included the model that we have in the prompt so we do not need to explicitly call for the message and the model like in the first one   
+    ![img_8.png](img_8.png)
+  * In the latter cases we created a prompt in the IDE and saw how we can export it to the LangsmithUI where we tested those prompts
+    ![img_9.png](img_9.png)
+    ![img_10.png](img_10.png)
+
+---
+
+
